@@ -1,4 +1,3 @@
-
 function Profile(props) {
     console.log(props);
     return <h1>
